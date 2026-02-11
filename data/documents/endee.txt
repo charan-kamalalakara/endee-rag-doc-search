@@ -1,0 +1,5 @@
+Endee is a vector database designed for storing and searching high-dimensional
+embedding vectors. It is commonly used in applications such as semantic search,
+retrieval augmented generation (RAG), recommendation systems, and AI agents.
+Endee provides REST APIs to create indexes, insert vectors, and perform similarity
+search using metrics like cosine similarity.

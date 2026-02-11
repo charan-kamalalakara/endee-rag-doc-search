@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  endee:
+    image: ghcr.io/endeelabs/endee:latest
+    container_name: endee-db
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./endee_data:/data

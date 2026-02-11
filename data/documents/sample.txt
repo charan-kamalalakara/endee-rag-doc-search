@@ -1,0 +1,2 @@
+Endee is a vector database designed for semantic search and retrieval.
+It stores embedding vectors and allows fast similarity-based queries.

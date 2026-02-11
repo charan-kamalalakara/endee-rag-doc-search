@@ -1,0 +1,2 @@
+A vector database stores high-dimensional embeddings and enables efficient
+similarity search using distance metrics like cosine similarity.

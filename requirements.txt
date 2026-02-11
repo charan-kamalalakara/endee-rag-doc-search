@@ -1,0 +1,7 @@
+sentence-transformers
+requests
+numpy
+msgpack
+pypdf
+ollama
+streamlit

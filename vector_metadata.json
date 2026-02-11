@@ -1,0 +1,18 @@
+{
+  "doc_0001": {
+    "content": "Endee is a vector database designed for storing and searching high-dimensional\nembedding vectors. It is commonly used in applications such as semantic search,\nretrieval augmented generation (RAG), recommendation systems, and AI agents.\nEndee provides REST APIs to create indexes, insert vectors, and perform similarity\nsearch using metrics like cosine similarity.",
+    "source": "endee.txt"
+  },
+  "doc_0002": {
+    "content": "A vector database stores high-dimensional embeddings and enables efficient\nsimilarity search using distance metrics like cosine similarity.",
+    "source": "networking.txt"
+  },
+  "doc_0003": {
+    "content": "export KAGGLE_API_TOKEN=KGAT_73cbf195d2131f527863dda798c28193\n\nKGAT_73cbf195d2131f527863dda798c28193",
+    "source": "res.txt"
+  },
+  "doc_0004": {
+    "content": "Endee is a vector database designed for semantic search and retrieval.\nIt stores embedding vectors and allows fast similarity-based queries.",
+    "source": "sample.txt"
+  }
+}
